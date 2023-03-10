@@ -1,0 +1,31 @@
+.Home {
+  background-color: rgb(99, 202, 171);
+  margin: auto;
+  width: 50%;
+  height: 60%;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.header {
+  margin: 25px;
+}
+
+button {
+  height: fit-content;
+  font-size: 16px;
+  font-weight: 800;
+  border: 2.5px solid white;
+  padding: 12px;
+  cursor: pointer;
+}
+
+.play-button {
+  width: 25%;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+.container{
+    margin: auto;
+}
